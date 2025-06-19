@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00C896&center=true&vCenter=true&width=700&lines=Junior+AI+%26+Machine+Learning+Engineer+%F0%9F%92%BB%F0%9F%A4%96" alt="Typing SVG 2" />
 </p>
 
+## 📫 Contact Me
 
 📍 Cairo (easy to relocate) | 📧 nagwammatia@gmail.com | 📱 +20 155 399 8973  
 [LinkedIn](https://www.linkedin.com/in/nagwa-mohamed-b81453216)
