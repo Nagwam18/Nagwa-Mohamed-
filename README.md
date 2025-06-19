@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Nagwa+Mohamed+M.+Attia+%F0%9F%91%8B" alt="Typing SVG 1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=A020F0&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Nagwa+Mohamed+M.+Attia+%F0%9F%91%8B" alt="Typing SVG 1" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=A020F0&center=true&vCenter=true&width=700&lines=Junior+AI+%26+Machine+Learning+Engineer+%F0%9F%92%BB%F0%9F%A4%96" alt="Typing SVG 2" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Junior+AI+%26+Machine+Learning+Engineer+%F0%9F%92%BB%F0%9F%A4%96" alt="Typing SVG 2" />
 </p>
 
 ## 📫 Contact Me
