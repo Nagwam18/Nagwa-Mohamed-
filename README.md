@@ -7,12 +7,6 @@
 </p>
 
 ---
-## 📫 Contact with Me :
-
-📍 Cairo (easy to relocate) | 📩  nagwammatia@gmail.com | 📱 +20 155 399 8973  
-[LinkedIn](https://www.linkedin.com/in/nagwa-mohamed-b81453216)
-
----
 ## 🧠 About Me
 
 AI & Machine Learning Engineer with strong experience in applied machine learning, data analytics, and generative AI.  
