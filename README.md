@@ -1,52 +1,91 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=26&pause=1000&color=3F8EFC&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Nagwa+Mohamed+M.+Attia+%F0%9F%91%8B;Junior+AI+%26+Machine+Learning+Engineer+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Nagwa+Mohamed+M.+Attia+%F0%9F%91%8B;Junior+AI+%26+Machine+Learning+Engineer" alt="Typing SVG" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF6F61&center=true&vCenter=true&width=600&lines=🚀+What+I'm+Currently+Up+To;🌱+Learning+New+Skills;💻+My+Tech+Stack;🎯+Connect+with+Me;🚀+Let's+Collaborate!" alt="Section Titles" />
-</p>
+## 🧠 About Me
+
+AI & Machine Learning Engineer with strong experience in applied machine learning, data analytics, and generative AI.  
+Skilled in developing scalable AI solutions with a focus on automation and real-world impact.  
+Proficient in TensorFlow, Scikit-learn, and deep learning tools.  
+Collaborative, results-oriented, and dedicated to solving meaningful problems through data-driven approaches.
 
 ---
 
-### 🚀 What I'm Currently Up To:
-- AI & ML Trainee @ ITI (9-month diploma)
-- Working on real-world Machine Learning and Deep Learning projects
-- Exploring Data Science and Generative AI applications
+## 🎓 Education
+
+- 📍 **ITI – 9-Month Diploma in AI Track**  
+  *Information Technology Institute, Mansoura Branch*  
+  _Oct 2024 – July 2025_
+
+- 🏫 **Bachelor’s in Computers and Informatics – Medical Informatics Dept.**  
+  *Zagazig University* — GPA: 3.56 (Excellent)  
+  _Oct 2020 – May 2024_
 
 ---
 
-### 🌱 Learning New Skills:
-- Deep Learning (TensorFlow, PyTorch)
-- Natural Language Processing (Transformers, BERT)
-- AI Model Deployment & Optimization
-- Computer Vision and Image Segmentation
+## 🚀 Internships
+
+- **Machine Learning Trainee**, Digital Egypt Pioneers Initiative (Apr 2024 – Oct 2024)  
+- **Data Analyst Track**, ITI-Tec-Leaps (Aug 2022 – Feb 2023)
 
 ---
 
-### 💻 My Tech Stack:
-`Python` `TensorFlow` `PyTorch` `Scikit-learn` `Hugging Face`  
-`OpenCV` `Pandas` `NumPy` `MongoDB` `MySQL`  
-`Power BI` `Tableau` `Linux` `OOP` `Algorithms`
+## 💻 Technical Skills
+
+- **Languages:** Python, C++, C  
+- **ML & DL Frameworks:** TensorFlow, Scikit-learn, Hugging Face, OpenCV  
+- **Data Tools:** Pandas, NumPy, Power BI, Tableau, Excel  
+- **Databases:** MySQL, MongoDB, SQL Server  
+- **Other:** Linux, OOP, Data Structures & Algorithms
 
 ---
 
-### 🎯 Connect with Me:
-- 💼 [LinkedIn](https://www.linkedin.com/in/nagwa-mohamed-b81453216)
-- 📧 Email: nagwammatia@gmail.com
+## 🧪 Projects
+
+- **AI Powered Diet Planner:** Multi-agent AI system with Gemini Flash for fast reasoning  
+- **Smart Recruiter Assistant:** Chatbot, CV analyzer, recommender, and dashboard  
+- **Movie Recommendation System:** Memory & model-based filtering using Surprise  
+- **Obesity Risk Prediction:** ML models predicting obesity risks  
+- **Arabic POS Tagging:** Fine-tuned Arabic BERT using token classification  
+- **Lung Image Segmentation & Classification:** U-Net with ResNet, binary classification  
+- **Weather Image Classification:** CNN-based transfer learning with ResNet & DenseNet
 
 ---
 
-### 💬 Fun Facts:
-- 🔬 Passionate about applied AI & research
-- 📝 I enjoy taking deep, organized notes to understand AI & ML better
-- 📚 Always exploring new technologies and challenges
+## 📚 Courses
+
+- Career Essentials in Data Analysis – Microsoft & LinkedIn  
+- Google Data Analytics Professional Certificate
 
 ---
 
-### 🚀 Let's Collaborate!
-- Open to ML/DL and AI-based project collaborations
-- Feel free to fork my projects and contribute
-- Looking for remote and hybrid opportunities in AI & Machine Learning
+## 🧑‍💼 Personal Skills
+
+- Analytical and problem-solving mindset  
+- Effective communication and presentation skills  
+- Fast learner, team player, and open to feedback  
+- Highly motivated for remote work opportunities  
+
+---
+
+## 🌐 Languages
+
+- **Arabic:** Native  
+- **English:** B2 (Upper Intermediate)
+
+---
+
+## 📫 Contact Me
+
+- [LinkedIn](https://www.linkedin.com/in/nagwa-mohamed-b81453216)  
+- ✉️ **Email:** nagwammatia@gmail.com
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm open to working on ML/DL and AI-based projects.  
+Feel free to fork my repos, contribute, or reach out if you're building something exciting!
 
