@@ -1,4 +1,7 @@
-# Hey there, I'm **Nagwa Mohamed M. Attia** 👋  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=26&pause=1000&color=7B2CBF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Nagwa+Mohamed+M.+Attia+%F0%9F%91%8B" alt="Typing SVG" />
+</p>
+
 ### Junior AI & Machine Learning Engineer  
 
 📍 Cairo (easy to relocate)  
