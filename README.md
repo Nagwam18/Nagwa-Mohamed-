@@ -1,91 +1,100 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Nagwa+Mohamed+M.+Attia+%F0%9F%91%8B;Junior+AI+%26+Machine+Learning+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Nagwa+Mohamed+M.+Attia+%F0%9F%91%8B" alt="Typing SVG 1" />
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00C896&center=true&vCenter=true&width=700&lines=Junior+AI+%26+Machine+Learning+Engineer" alt="Typing SVG 2" />
+</p>
 
-## 🧠 About Me
-
-AI & Machine Learning Engineer with strong experience in applied machine learning, data analytics, and generative AI.  
-Skilled in developing scalable AI solutions with a focus on automation and real-world impact.  
-Proficient in TensorFlow, Scikit-learn, and deep learning tools.  
-Collaborative, results-oriented, and dedicated to solving meaningful problems through data-driven approaches.
+📍 Cairo (easy to relocate) | 📧 nagwammatia@gmail.com | 📱 +20 155 399 8973  
+[LinkedIn](https://www.linkedin.com/in/nagwa-mohamed-b81453216)
 
 ---
 
-## 🎓 Education
+Dynamic and results-oriented AI & Machine Learning Engineer with a strong foundation in data analytics, deep learning, and generative AI.  
+I specialize in developing scalable, automated solutions using Python, TensorFlow, and Scikit-learn to drive meaningful, real-world impact.
 
-- 📍 **ITI – 9-Month Diploma in AI Track**  
-  *Information Technology Institute, Mansoura Branch*  
-  _Oct 2024 – July 2025_
-
-- 🏫 **Bachelor’s in Computers and Informatics – Medical Informatics Dept.**  
-  *Zagazig University* — GPA: 3.56 (Excellent)  
-  _Oct 2020 – May 2024_
+✨ I'm always striving to learn and grow. ✨
 
 ---
 
-## 🚀 Internships
+## 🚀 What I'm Currently Up To:
 
-- **Machine Learning Trainee**, Digital Egypt Pioneers Initiative (Apr 2024 – Oct 2024)  
-- **Data Analyst Track**, ITI-Tec-Leaps (Aug 2022 – Feb 2023)
-
----
-
-## 💻 Technical Skills
-
-- **Languages:** Python, C++, C  
-- **ML & DL Frameworks:** TensorFlow, Scikit-learn, Hugging Face, OpenCV  
-- **Data Tools:** Pandas, NumPy, Power BI, Tableau, Excel  
-- **Databases:** MySQL, MongoDB, SQL Server  
-- **Other:** Linux, OOP, Data Structures & Algorithms
+- 🎓 AI & ML Trainee @ ITI (9-month diploma)  
+- 🧠 Working on NLP, CV, and AI-based systems  
+- 💻 Exploring real-world machine learning solutions using Hugging Face, OpenCV, and CrewAI  
+- ⚙️ Learning deployment, optimization, and MLOps best practices  
 
 ---
 
-## 🧪 Projects
+## 🌱 Learning New Skills:
 
-- **AI Powered Diet Planner:** Multi-agent AI system with Gemini Flash for fast reasoning  
-- **Smart Recruiter Assistant:** Chatbot, CV analyzer, recommender, and dashboard  
-- **Movie Recommendation System:** Memory & model-based filtering using Surprise  
-- **Obesity Risk Prediction:** ML models predicting obesity risks  
-- **Arabic POS Tagging:** Fine-tuned Arabic BERT using token classification  
-- **Lung Image Segmentation & Classification:** U-Net with ResNet, binary classification  
-- **Weather Image Classification:** CNN-based transfer learning with ResNet & DenseNet
+- TensorFlow, Scikit-learn, and PyTorch  
+- Hugging Face Transformers & Generative AI  
+- Natural Language Processing & Computer Vision  
+- AI Model Deployment and Optimization  
+- Data Visualization with Power BI and Tableau  
 
 ---
 
-## 📚 Courses
+## 💻 My Tech Stack:
 
-- Career Essentials in Data Analysis – Microsoft & LinkedIn  
-- Google Data Analytics Professional Certificate
-
----
-
-## 🧑‍💼 Personal Skills
-
-- Analytical and problem-solving mindset  
-- Effective communication and presentation skills  
-- Fast learner, team player, and open to feedback  
-- Highly motivated for remote work opportunities  
+Python • C++ • TensorFlow • Scikit-learn • PyTorch • Hugging Face  
+Power BI • Tableau • SQL Server • MySQL • MongoDB • OpenCV  
+Linux • OOP • Data Structures & Algorithms
 
 ---
 
-## 🌐 Languages
+## 🎯 Connect with Me:
 
-- **Arabic:** Native  
-- **English:** B2 (Upper Intermediate)
-
----
-
-## 📫 Contact Me
-
-- [LinkedIn](https://www.linkedin.com/in/nagwa-mohamed-b81453216)  
-- ✉️ **Email:** nagwammatia@gmail.com
+- 📩 Email: nagwammatia@gmail.com  
+- 🔗 LinkedIn: [Nagwa Mohamed](https://www.linkedin.com/in/nagwa-mohamed-b81453216)
 
 ---
 
-## 🤝 Let's Collaborate
+## 💬 Fun Facts:
 
-I'm open to working on ML/DL and AI-based projects.  
-Feel free to fork my repos, contribute, or reach out if you're building something exciting!
+- 🔬 I’m passionate about research and creating deep-dive notes on AI/ML topics  
+- 📚 Always exploring new tools, frameworks, and emerging technologies  
+- 🧑‍🏫 Love contributing to open-source and learning from the community  
 
+---
+
+## 🧑‍💻 My Learning Journey:
+
+- Bachelor’s Degree in Computers & Informatics – GPA: 3.56 (Excellent)  
+- 9-Month AI Diploma @ ITI – Mansoura Branch  
+- Multiple internships including Data Analysis & Machine Learning Trainee roles  
+
+---
+
+## 💼 Projects I've Built:
+
+- **AI Powered Diet Planner** – Multi-agent system using CrewAI & Gemini Flash  
+- **Smart Recruiter Assistant** – Virtual HR Assistant with Chatbot, CV Matcher, Recommender  
+- **Movie Recommendation System** – Collaborative filtering using Surprise library  
+- **Obesity Risk Prediction** – Classification models using Random Forest, SVM, XGBoost  
+- **Arabic POS Tagging** – Fine-tuned Arabic BERT for token classification  
+- **Image Classification & Segmentation** – U-Net, ResNet for cats/dogs and lung scans  
+- **Weather Image Classification** – CNN models using DenseNet & ResNet
+
+---
+
+## 🎉 Fun & Interactive Features:
+
+🎮 Click here for a fun surprise! (coming soon 😉)
+
+---
+
+## 💡 GitHub Stats:
+
+> _(You can add GitHub stats or top languages here using shields.io or GitHub Readme Stats)_
+
+---
+
+## 🚀 Let's Collaborate!
+
+I'm open to collaborating on ML/DL and AI-based projects.  
+Feel free to fork my projects, contribute, or reach out if you're building something cool!  
+Looking forward to applying my skills in exciting, impactful opportunities.  
+Let’s build something awesome together! 💡🚀
