@@ -6,9 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Junior+AI+%26+Machine+Learning+Engineer+%F0%9F%92%BB%F0%9F%A4%96" alt="Typing SVG 2" />
 </p>
 
-## 📫 Contact Me
+---
+## 📫 Contact with Me :
 
-📍 Cairo (easy to relocate) | 📧 nagwammatia@gmail.com | 📱 +20 155 399 8973  
+📍 Cairo (easy to relocate) | 📩  nagwammatia@gmail.com | 📱 +20 155 399 8973  
 [LinkedIn](https://www.linkedin.com/in/nagwa-mohamed-b81453216)
 
 ---
@@ -45,13 +46,6 @@ I specialize in developing scalable, automated solutions using Python, TensorFlo
 Python • C++ • TensorFlow • Scikit-learn • PyTorch • Hugging Face  
 Power BI • Tableau • SQL Server • MySQL • MongoDB • OpenCV  
 Linux • OOP • Data Structures & Algorithms
-
----
-
-## 🎯 Connect with Me:
-
-- 📩 Email: nagwammatia@gmail.com  
-- 🔗 LinkedIn: [Nagwa Mohamed](https://www.linkedin.com/in/nagwa-mohamed-b81453216)
 
 ---
 
